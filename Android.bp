@@ -44,7 +44,18 @@ android_library {
         "SettingsLib-search-defaults",
     ],
 
-    srcs: ["src/**/*.java"],
+    srcs: [
+        "src/**/*.java",
+        "src/**/*.kt",
+        "FuliaSettings/src/**/*.java",
+        "FuliaSettings/src/**/*.kt",
+    ],
+
+    aaptflags: ["--extra-packages com.fulia.settings"],
+
+    resource_dirs: ["res",
+                    "FuliaSettings/res"
+    ],    
 
     static_libs: [
         "androidx-constraintlayout_constraintlayout",
