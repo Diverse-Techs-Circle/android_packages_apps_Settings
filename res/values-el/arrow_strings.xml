@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">χρώμα, ισορροπία χρώματος, διόρθωση χρώματος, κόκκινο, πράσινο, μπλε, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Ημερομηνία δημιουργίας</string>
-    <string name="arrow_version">Έκδοση ArrowOS</string>
+    <string name="arrow_version">Έκδοση FuliaUI</string>
     <string name="about_device_name">Συσκευή</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Πατήστε για αναστολή</string>

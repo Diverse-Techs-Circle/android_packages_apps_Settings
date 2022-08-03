@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">색상, 색상 밸런스, 색상 교정, 빨간색, 초록색, 파란색, 라이브디스플레이</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">빌드 날짜</string>
-    <string name="arrow_version">ArrowOS 버전</string>
+    <string name="arrow_version">FuliaUI 버전</string>
     <string name="about_device_name">기기</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">두 번 탭하여 화면 끄기</string>

@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">color, color balance, color correction, red, green, blue, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">உருவாக்கல் தேதி</string>
-    <string name="arrow_version">ArrowOS பதிப்பு</string>
+    <string name="arrow_version">FuliaUI பதிப்பு</string>
     <string name="about_device_name">சாதனம்</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">உறங்கத் தட்டு</string>

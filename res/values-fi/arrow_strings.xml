@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">väri, väritasapaino, värikorjaus, punainen, vihreä, sininen, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Koontipäivä</string>
-    <string name="arrow_version">ArrowOS-versio</string>
+    <string name="arrow_version">FuliaUI-versio</string>
     <string name="about_device_name">Laite</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Sammuta näyttö napauttamalla</string>

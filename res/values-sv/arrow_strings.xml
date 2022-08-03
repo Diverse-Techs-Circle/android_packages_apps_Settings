@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">färg, färgbalans, färgkorrigering, röd, grön, blå, Levande Skärm</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Kompileringsdatum</string>
-    <string name="arrow_version">Version på ArrowOS</string>
+    <string name="arrow_version">Version på FuliaUI</string>
     <string name="about_device_name">Enhet</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Dubbeltryck för att släcka skärmen</string>

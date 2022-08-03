@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">നിറം, കളർ ബാലൻസ്, കളർ തിരുത്തൽ, ചുവപ്പ്, പച്ച, നീല, ലൈവ് ഡിസ്പ്ലേ</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">ബിൽഡ് തീയതി</string>
-    <string name="arrow_version">ArrowOS version</string>
+    <string name="arrow_version">FuliaUI version</string>
     <string name="about_device_name">ഫോൺ</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">ഉറങ്ങാൻ ടാപ്പ് ചെയ്യുക</string>

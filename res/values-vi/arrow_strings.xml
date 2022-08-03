@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">màu, cân bằng màu, chỉnh màu, đỏ, lục, lam, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Ngày dựng</string>
-    <string name="arrow_version">Phiên bản ArrowOS</string>
+    <string name="arrow_version">Phiên bản FuliaUI</string>
     <string name="about_device_name">Thiết bị</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Chạm để tắt màn hình</string>

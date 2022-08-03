@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">colore, bilanciamento colore, correzione colore, rosso, verde, blu, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Data di compilazione</string>
-    <string name="arrow_version">Versione ArrowOS</string>
+    <string name="arrow_version">Versione FuliaUI</string>
     <string name="about_device_name">Dispositivo</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Tocca per spegnere lo schermo</string>

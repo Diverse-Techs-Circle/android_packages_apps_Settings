@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">culoare, balans culoare, corectarea culorilor, roșu, verde, albastru, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Dată compilare</string>
-    <string name="arrow_version">Versiune ArrowOS</string>
+    <string name="arrow_version">Versiune FuliaUI</string>
     <string name="about_device_name">Dizpozitiv</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Atinge pentru sleep</string>

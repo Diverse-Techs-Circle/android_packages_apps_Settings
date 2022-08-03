@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">боја, баланс боја, корекција боја, црвена, зелена, плава, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Датум изградње</string>
-    <string name="arrow_version">ArrowOS version</string>
+    <string name="arrow_version">FuliaUI version</string>
     <string name="about_device_name">Device</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Кликните за спавање</string>

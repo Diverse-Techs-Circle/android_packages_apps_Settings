@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">värv, värvi tasakaal, värvi korrigeerimine, punane, roheline, sinine, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Järgu kuupäev</string>
-    <string name="arrow_version">ArrowOS versioon</string>
+    <string name="arrow_version">FuliaUI versioon</string>
     <string name="about_device_name">Seade</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Koputa unerežiimiks</string>

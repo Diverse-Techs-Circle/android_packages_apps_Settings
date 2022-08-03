@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">color, color balance, color correction, red, green, blue, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">ᱛᱮᱭᱟᱨ ᱢᱟᱹᱦᱟᱹᱛ</string>
-    <string name="arrow_version">ArrowOS ᱦᱟᱹᱞᱤᱭᱟᱹᱠ</string>
+    <string name="arrow_version">FuliaUI ᱦᱟᱹᱞᱤᱭᱟᱹᱠ</string>
     <string name="about_device_name">ᱥᱟᱫᱷᱚᱱ</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">ᱜᱤᱛᱤᱡᱽ ᱞᱟᱹᱜᱤᱫ ᱚᱛᱟᱭ ᱢᱮ</string>

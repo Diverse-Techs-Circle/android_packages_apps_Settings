@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">szín, színegyensúly, színjavítás, színkorrekció, vörös, zöld, kék, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Készítés dátuma</string>
-    <string name="arrow_version">ArrowOS verzió</string>
+    <string name="arrow_version">FuliaUI verzió</string>
     <string name="about_device_name">Eszköz</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Koppintás az alváshoz</string>

@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">צבע, איזון צבע, תיקון צבע, אדום, ירוק, כחול, LiveDisplay, תצוגה חיה</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">תאריך יצירה</string>
-    <string name="arrow_version">גרסת ArrowOS</string>
+    <string name="arrow_version">גרסת FuliaUI</string>
     <string name="about_device_name">מכשיר</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">נגיעה להרדמה</string>

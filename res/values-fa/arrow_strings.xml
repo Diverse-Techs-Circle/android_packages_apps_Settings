@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">رنگ، تعادل رنگ، تصحیح رنگ، قرمز، سبز، آبی، LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">تاریخ ساخت</string>
-    <string name="arrow_version">نسخه ArrowOS</string>
+    <string name="arrow_version">نسخه FuliaUI</string>
     <string name="about_device_name">دستگاه</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">ضربه زدن برای خواب</string>

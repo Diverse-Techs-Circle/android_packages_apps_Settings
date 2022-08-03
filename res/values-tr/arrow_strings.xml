@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">renk, renk dengesi, renk düzeltmesi, kırmızı, yeşil, mavi, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">İnşa tarihi</string>
-    <string name="arrow_version">ArrowOS sürümü</string>
+    <string name="arrow_version">FuliaUI sürümü</string>
     <string name="about_device_name">Cihaz</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Uyutmak için dokunun</string>

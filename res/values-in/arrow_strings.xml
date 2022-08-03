@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">warna, keseimbangan warna, koreksi warna, merah, hijau, biru, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Tanggal pembuatan</string>
-    <string name="arrow_version">Versi ArrowOS</string>
+    <string name="arrow_version">Versi FuliaUI</string>
     <string name="about_device_name">Perangkat</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Ketuk untuk tidur</string>

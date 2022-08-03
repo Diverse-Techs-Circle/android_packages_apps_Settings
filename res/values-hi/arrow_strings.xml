@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">रंग, रंग अनुकूलता, रंग सही करे, लाल, हरा, नीला, लाइव प्रदर्शन</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">निर्माण दिनांक</string>
-    <string name="arrow_version">ArrowOS संस्करण</string>
+    <string name="arrow_version">FuliaUI संस्करण</string>
     <string name="about_device_name">उपकरण</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">सोने के लिए टैप करें</string>

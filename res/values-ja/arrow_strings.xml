@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">色、色のバランス、色のコレクション、赤、緑、青、LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">ビルド日時</string>
-    <string name="arrow_version">ArrowOS バージョン</string>
+    <string name="arrow_version">FuliaUI バージョン</string>
     <string name="about_device_name">端末</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">タップでスリープ</string>

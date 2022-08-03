@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">顏色、顏色平衡、顏色校正、紅色、綠色、藍色、LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">組建日期</string>
-    <string name="arrow_version">ArrowOS 版本</string>
+    <string name="arrow_version">FuliaUI 版本</string>
     <string name="about_device_name">裝置</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">輕觸兩下關閉螢幕</string>

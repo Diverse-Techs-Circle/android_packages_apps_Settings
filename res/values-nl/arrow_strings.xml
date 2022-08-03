@@ -42,7 +42,7 @@
     <string name="keywords_color_balance">kleurbalans, kleurcorrectie, rood, groen, blauw, LiveDisplay</string>
     <!-- About phone screen,  setting option name  [CHAR LIMIT=40] -->
     <string name="build_date">Compileerdatum</string>
-    <string name="arrow_version">ArrowOS versie</string>
+    <string name="arrow_version">FuliaUI versie</string>
     <string name="about_device_name">Toestel</string>
     <!-- Double Tap to Sleep Statusbar -->
     <string name="double_tap_sleep_gesture_title">Dubbeltikken voor slaapstand</string>
