@@ -16,9 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Pindutin upang ipakita ang informasyon</string>
-    <!-- ArrowOS Installation Stats -->
-    <string name="arrow_stats_title">ArrowOS Stats</string>
-    <string name="arrow_stats_summary">Binibilang lang kung ilang device ang ginagamit namin</string>
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">Minimum na refresh rate</string>
     <string name="max_refresh_rate_title">Pinakamataas na rate ng pag-refresh</string>

@@ -16,9 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Klõpsake teabe kuvamiseks</string>
-    <!-- ArrowOS Installation Stats -->
-    <string name="arrow_stats_title">ArrowOS\'i statistika</string>
-    <string name="arrow_stats_summary">Lihtsalt loendades, kui palju seadmeid me käivitame</string>
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">Minimaalne värskendussagedus</string>
     <string name="max_refresh_rate_title">Maksimaalne värskendussagedus</string>

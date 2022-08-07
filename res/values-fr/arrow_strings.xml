@@ -16,9 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Appuyez pour afficher les informations</string>
-    <!-- ArrowOS Installation Stats -->
-    <string name="arrow_stats_title">Statistiques ArrowOS</string>
-    <string name="arrow_stats_summary">Nous comptons le nombre d’appareils sur lesquels notre Os est installé</string>
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">Taux de rafraîchissement minimum</string>
     <string name="max_refresh_rate_title">Taux de rafraîchissement maximum</string>

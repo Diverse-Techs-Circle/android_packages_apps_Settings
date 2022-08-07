@@ -16,9 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">കൂടുതല്‍ വിവരങ്ങള്‍ കാണിക്കൂക</string>
-    <!-- ArrowOS Installation Stats -->
-    <string name="arrow_stats_title">ആരോ ഓഎസ് സ്ഥിതിവിവരക്കണക്കുകള്‍</string>
-    <string name="arrow_stats_summary">ഞങ്ങൾ എത്ര ഉപകരണങ്ങളിൽ പ്രവർത്തിക്കുന്നു എന്ന് കണക്കാക്കുന്നു</string>
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">പുതുക്കിയ നിരക്ക്</string>
     <string name="max_refresh_rate_title">പരമാവധി പുതുക്കൽ നിരക്ക്</string>

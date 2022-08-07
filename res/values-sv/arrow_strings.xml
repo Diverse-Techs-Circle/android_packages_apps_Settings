@@ -16,9 +16,6 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- String for removal of sensitive info on about, depending on tap -->
     <string name="device_info_protected_single_press">Tryck för att visa information</string>
-    <!-- ArrowOS Installation Stats -->
-    <string name="arrow_stats_title">Statistik för ArrowOS</string>
-    <string name="arrow_stats_summary">Sumering över hur många enheter som vi körs på</string>
     <!-- Refresh rate -->
     <string name="min_refresh_rate_title">Minsta uppdateringsfrekvens</string>
     <string name="max_refresh_rate_title">Högsta uppdateringsfrekvensen</string>
