@@ -43,7 +43,6 @@ public class ArrowVersionDetailPreferenceController extends BasePreferenceContro
 
     private static final String KEY_ARROW_VERSION_PROP = "ro.modversion";
     private static final String KEY_ARROW_RELEASETYPE_PROP = "ro.fulia.releasetype";
-    private static final String KEY_ARROW_ZIPTYPE_PROP = "ro.fulia.ziptype";
 
     private final UserManager mUserManager;
     private final long[] mHits = new long[ACTIVITY_TRIGGER_COUNT];
@@ -66,10 +65,9 @@ public class ArrowVersionDetailPreferenceController extends BasePreferenceContro
     public CharSequence getSummary() {
 	String[] arrowVer = SystemProperties.get(KEY_ARROW_VERSION_PROP).split("v");
 	String arrowReleasetype =  SystemProperties.get(KEY_ARROW_RELEASETYPE_PROP);
-        String arrowZiptype =  SystemProperties.get(KEY_ARROW_ZIPTYPE_PROP);
 
-	if (!arrowVer[1].isEmpty() && !arrowReleasetype.isEmpty() && !arrowZiptype.isEmpty())
-	    return arrowVer[1] + " | " + arrowZiptype + " | " + arrowReleasetype;
+	if (!arrowVer[1].isEmpty() && !arrowReleasetype.isEmpty())
+	    return arrowVer[1] + " | " + arrowReleasetype;
 	else
             return mContext.getString(R.string.unknown);
     }
